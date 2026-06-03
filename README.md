@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hola, soy Ricardo / Hi, I'm Ricardo
+# Hola, soy Ricardo / Hi, I'm Ricardo
 
-### Full Stack Developer Jr. | México 🇲🇽
+### Full Stack Developer Jr. | México 🇲🇽 - Estados Unidos 🇺🇸
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+Jr.;HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript;Angular+%7C+NestJS+%7C+ExpressJS;Always+learning+new+things...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+Jr.;HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript;Angular+%7C+NestJS+%7C+ExpressJS;Always+learning+new+things...)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,7 +19,7 @@
 - 🔭 Trabajando en / Working on: proyectos web con Angular & NestJS
 - 🌱 Aprendiendo / Learning: mejores prácticas de arquitectura backend
 - 📫 Contáctame / Reach me: [martinezhernandezricardo06@gmail.com](mailto:martinezhernandezricardo06@gmail.com)
-- 📍 México
+- 📍 México 🇲🇽 - Estados Unidos 🇺🇸
 
 ---
 
@@ -85,6 +85,7 @@
 ### 📬 Contacto / Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinezhernandezricardo06@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-martinez-b411a5388)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/richmtx)
 
 ---
