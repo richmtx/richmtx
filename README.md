@@ -73,8 +73,8 @@
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [Mamboreta](https://github.com/richmtx/Mamboreta) | Sitio web para restaurante en Durango, México | HTML, CSS, JS |
-| [BackendSitioWebMI](https://github.com/richmtx/BackendSitioWebMI) | Backend en producción para sitio web de maestría | NestJS, MySQL, Node.js |
+| [Egresados ITD](https://github.com/richmtx/Egresados-Frontend) | Sistema de Seguimiento de Egresados del ITD
+ | Angular, HTML, CSS, TS |
 | [FrontendSitioWebMI](https://github.com/richmtx/FrontendSitioWebMI) | Frontend en producción para sitio web de maestría | Angular, HTML, CSS, TS |
 | [SitioWeb-CentroInnovacion](https://github.com/richmtx/SitioWeb-CentroInnovacionTecnologica) | Sitio web del Centro de Innovación Tecnológica | Angular, CSS |
 
