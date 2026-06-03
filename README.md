@@ -73,8 +73,7 @@
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [Egresados ITD](https://github.com/richmtx/Egresados-Frontend) | Sistema de Seguimiento de Egresados del ITD
- | Angular, HTML, CSS, TS |
+| [Egresados ITD](https://github.com/richmtx/Egresados-Frontend) | Sistema de Seguimiento de Egresados del ITD | Angular, HTML, CSS, TS |
 | [FrontendSitioWebMI](https://github.com/richmtx/FrontendSitioWebMI) | Frontend en producción para sitio web de maestría | Angular, HTML, CSS, TS |
 | [SitioWeb-CentroInnovacion](https://github.com/richmtx/SitioWeb-CentroInnovacionTecnologica) | Sitio web del Centro de Innovación Tecnológica | Angular, CSS |
 
