@@ -10,20 +10,20 @@
 
 ---
 
-## 🧑‍💻 Sobre mí / About me
+## Sobre mí / About me
 
 **ES:** Soy un desarrollador Full Stack Jr. apasionado por construir sitios web estáticos y dinámicos, sistemas CRUD, bases de datos y aplicaciones móviles. Actualmente trabajo en el Centro de Innovación Tecnológica.
 
 **EN:** I'm a passionate Jr. Full Stack Developer who loves building static and dynamic websites, CRUD systems, databases, and mobile applications. Currently working at the Centro de Innovación Tecnológica.
 
-- 🔭 Trabajando en / Working on: proyectos web con Angular & NestJS
-- 🌱 Aprendiendo / Learning: mejores prácticas de arquitectura backend
-- 📫 Contáctame / Reach me: [martinezhernandezricardo06@gmail.com](mailto:martinezhernandezricardo06@gmail.com)
-- 📍 México 🇲🇽 - Estados Unidos 🇺🇸
+- Trabajando en / Working on: proyectos web con Angular & NestJS
+- Aprendiendo / Learning: mejores prácticas de arquitectura backend
+- Contáctame / Reach me: [martinezhernandezricardo06@gmail.com](mailto:martinezhernandezricardo06@gmail.com)
+- México MX - Estados Unidos US
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![HTML5](https://skillicons.dev/icons?i=html)
@@ -52,12 +52,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=richmtx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richmtx&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-delta-six-47.vercel.app/api?username=richmtx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-delta-six-47.vercel.app/api/top-langs/?username=richmtx&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
@@ -69,7 +69,7 @@
 
 ---
 
-## 🚀 Proyectos destacados / Featured Projects
+## Proyectos destacados / Featured Projects
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
@@ -82,7 +82,7 @@
 
 <div align="center">
 
-### 📬 Contacto / Contact
+### Contacto / Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinezhernandezricardo06@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-martinez-b411a5388)
