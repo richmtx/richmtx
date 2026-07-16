@@ -22,7 +22,7 @@ const ricardo = {
   trabajo:    'Centro de Innovación Tecnológica — ITD',
   stack:      ['Angular', 'NestJS', 'TypeScript', 'MySQL'],
   aprendiendo:'mejores prácticas de arquitectura backend',
-  contacto:   'martinezhernandezricardo06@gmail.com',
+  contacto:   'rich.mtx1205@gmail.com',
 };
 ```
 
