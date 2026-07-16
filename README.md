@@ -49,13 +49,23 @@ const ricardo = {
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
+
+**Bases de datos / Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
 
 **Lenguajes / Languages · Mobile**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
 
 **Herramientas / Tools · Deploy**
@@ -85,10 +95,6 @@ const ricardo = {
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=richmtx&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br>
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=richmtx&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 <br>
@@ -98,22 +104,28 @@ const ricardo = {
 <div align="center">
 
 <a href="https://github.com/richmtx/Egresados-Frontend">
-  <img src="https://github-readme-stats-delta-six-47.vercel.app/api/pin/?username=richmtx&repo=Egresados-Frontend&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats-delta-six-47.vercel.app/api/pin/?username=richmtx&repo=Egresados-Frontend&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+<a href="https://github.com/richmtx/Egresados-Backend">
+  <img width="49%" src="https://github-readme-stats-delta-six-47.vercel.app/api/pin/?username=richmtx&repo=Egresados-Backend&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 <a href="https://github.com/richmtx/FrontendSitioWebMI">
-  <img src="https://github-readme-stats-delta-six-47.vercel.app/api/pin/?username=richmtx&repo=FrontendSitioWebMI&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats-delta-six-47.vercel.app/api/pin/?username=richmtx&repo=FrontendSitioWebMI&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
-<a href="https://github.com/richmtx/SitioWeb-CentroInnovacionTecnologica">
-  <img src="https://github-readme-stats-delta-six-47.vercel.app/api/pin/?username=richmtx&repo=SitioWeb-CentroInnovacionTecnologica&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/richmtx/BackendSitioWebMI">
+  <img width="49%" src="https://github-readme-stats-delta-six-47.vercel.app/api/pin/?username=richmtx&repo=BackendSitioWebMI&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
 </div>
 
 | Proyecto | Descripción | Stack |
 |:--|:--|:--|
-| **[Egresados ITD](https://github.com/richmtx/Egresados-Frontend)** | Sistema de Seguimiento de Egresados del ITD | `Angular` `NestJS` `MySQL` |
-| **[Sitio Web MI](https://github.com/richmtx/FrontendSitioWebMI)** | Sitio web de la Maestría en Ingeniería del ITD | `Angular` `TypeScript` |
-| **[CIT ITD](https://github.com/richmtx/SitioWeb-CentroInnovacionTecnologica)** | Sitio web del Centro de Innovación Tecnológica | `Angular` `CSS` |
+| **[Egresados-Frontend](https://github.com/richmtx/Egresados-Frontend)** | 🚧 Formulario para los egresados del ITD | `Angular` `TypeScript` `HTML5` `CSS` |
+| **[Egresados-Backend](https://github.com/richmtx/Egresados-Backend)** | 🚧 API del sistema de egresados del ITD | `NestJS` `TypeScript` `MySQL` `TypeORM` |
+| **[FrontendSitioWebMI](https://github.com/richmtx/FrontendSitioWebMI)** | ✅ Sitio web de la Maestría en Ingeniería del ITD | `Angular` `TypeScript` `HTML5` `CSS` |
+| **[BackendSitioWebMI](https://github.com/richmtx/BackendSitioWebMI)** | ✅ API del sitio web de la Maestría en Ingeniería | `NestJS` `Node.js` `MySQL` `TypeORM` |
+
+<sub>🚧 En desarrollo / In progress · ✅ En producción / In production</sub>
 
 <br>
 
