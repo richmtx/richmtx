@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=Ricardo%20Mart%C3%ADnez&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Developer%20Jr.%20%7C%20M%C3%A9xico%20%F0%9F%87%B2%F0%9F%87%BD%20-%20Estados%20Unidos%20%F0%9F%87%BA%F0%9F%87%B8&descAlignY=55&descSize=16" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=600&height=60&lines=%3C+construyendo+cosas+con+Angular+%26+NestJS+%2F%3E;%3C+building+things+with+Angular+%26+NestJS+%2F%3E;%3C+siempre+aprendiendo+algo+nuevo...+%2F%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=600&height=60&lines=%3C+convirtiendo+ideas+en+c%C3%B3digo...+%2F%3E;%3C+un+commit+a+la+vez...+%2F%3E;%3C+siempre+aprendiendo+algo+nuevo...+%2F%3E)](https://git.io/typing-svg)
 
 <a href="mailto:martinezhernandezricardo06@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/ricardo-martinez-b411a5388"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
