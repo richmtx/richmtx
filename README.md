@@ -81,38 +81,6 @@ const ricardo = {
 
 </div>
 
-
-
-## 🚀 Proyectos destacados / Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/richmtx/Egresados-Frontend">
-  <img width="49%" src="https://github-readme-stats-delta-six-47.vercel.app/api/pin/?username=richmtx&repo=Egresados-Frontend&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/richmtx/Egresados-Backend">
-  <img width="49%" src="https://github-readme-stats-delta-six-47.vercel.app/api/pin/?username=richmtx&repo=Egresados-Backend&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/richmtx/FrontendSitioWebMI">
-  <img width="49%" src="https://github-readme-stats-delta-six-47.vercel.app/api/pin/?username=richmtx&repo=FrontendSitioWebMI&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/richmtx/BackendSitioWebMI">
-  <img width="49%" src="https://github-readme-stats-delta-six-47.vercel.app/api/pin/?username=richmtx&repo=BackendSitioWebMI&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-</div>
-
-| Proyecto | Descripción | Stack |
-|:--|:--|:--|
-| **[Egresados-Frontend](https://github.com/richmtx/Egresados-Frontend)** | 🚧 Formulario para los egresados del ITD | `Angular` `TypeScript` `HTML5` `CSS` |
-| **[Egresados-Backend](https://github.com/richmtx/Egresados-Backend)** | 🚧 API del sistema de egresados del ITD | `NestJS` `TypeScript` `MySQL` `TypeORM` |
-| **[FrontendSitioWebMI](https://github.com/richmtx/FrontendSitioWebMI)** | ✅ Sitio web de la Maestría en Ingeniería del ITD | `Angular` `TypeScript` `HTML5` `CSS` |
-| **[BackendSitioWebMI](https://github.com/richmtx/BackendSitioWebMI)** | ✅ API del sitio web de la Maestría en Ingeniería | `NestJS` `Node.js` `MySQL` `TypeORM` |
-
-<sub>🚧 En desarrollo / In progress · ✅ En producción / In production</sub>
-
-<br>
-
 <div align="center">
 
 ### ⭐ Si algún proyecto te fue útil, déjale una estrella
