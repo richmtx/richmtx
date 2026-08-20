@@ -81,26 +81,7 @@ const ricardo = {
 
 </div>
 
-<br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats-delta-six-47.vercel.app/api?username=richmtx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-<img height="170em" src="https://github-readme-stats-delta-six-47.vercel.app/api/top-langs/?username=richmtx&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<br><br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=richmtx&theme=tokyonight&locale=es&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
-<br>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=richmtx&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br>
 
 ## 🚀 Proyectos destacados / Featured Projects
 
