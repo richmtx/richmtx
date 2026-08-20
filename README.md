@@ -83,9 +83,6 @@ const ricardo = {
 
 <div align="center">
 
-### ⭐ Si algún proyecto te fue útil, déjale una estrella
-*If any project was helpful, don't forget to leave a star*
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%" />
 
 </div>
