@@ -82,7 +82,7 @@ const ricardo = {
 ![Yaak](https://img.shields.io/badge/Yaak-6B4FBB?style=for-the-badge&logo=yaak&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&labelColor=FF9900&color=FF9900)
 
 </div>
 
