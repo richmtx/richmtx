@@ -26,9 +26,9 @@ const ricardo = {
 };
 ```
 
-**ES:** Desarrollador Full Stack Jr. apasionado por construir sitios web estáticos y dinámicos, sistemas CRUD, bases de datos y aplicaciones móviles. Actualmente trabajo en el Centro de Innovación Tecnológica del Instituto Tecnológico de Durango.
+**ES:** Desarrollador Full Stack enfocado en construir aplicaciones web completas, desde la base de datos hasta la interfaz. Trabajo principalmente con Angular, NestJS, TypeScript y MySQL, desarrollando sitios web, plataformas de gestión de información y APIs REST, además de servicios web en la nube con AWS. Actualmente trabajo en el Centro de Innovación Tecnológica, donde participo en todo el ciclo de los proyectos: análisis, diseño de la base de datos, desarrollo y despliegue. También realizo proyectos freelance y personales, como aplicaciones de escritorio y móviles. Me interesa escribir código limpio y mantenible, y sigo aprendiendo buenas prácticas de arquitectura backend.
 
-**EN:** Jr. Full Stack Developer who loves building static and dynamic websites, CRUD systems, databases, and mobile applications. Currently working at the Centro de Innovación Tecnológica.
+**EN:** Full Stack Developer focused on building complete web applications, from the database to the user interface. I work mainly with Angular, NestJS, TypeScript, and MySQL, developing websites, information management platforms, and REST APIs, as well as cloud-based web services with AWS. I currently work at the Centro de Innovación Tecnológica, where I take part in the whole project lifecycle: analysis, database design, development, and deployment. I also build freelance and personal projects, including desktop and mobile apps. I care about writing clean, maintainable code and I keep learning backend architecture best practices.
 
 <br>
 
@@ -82,6 +82,7 @@ const ricardo = {
 ![Yaak](https://img.shields.io/badge/Yaak-6B4FBB?style=for-the-badge&logo=yaak&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 
 </div>
 
