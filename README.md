@@ -17,7 +17,7 @@
 
 ```ts
 const ricardo = {
-  rol:        'Full Stack Developer Jr.',
+  rol:        'Full Stack Developer',
   ubicacion:  ['México 🇲🇽', 'Estados Unidos 🇺🇸'],
   trabajo:    'Centro de Innovación Tecnológica — ITD',
   stack:      ['Angular', 'NestJS', 'TypeScript', 'MySQL'],
